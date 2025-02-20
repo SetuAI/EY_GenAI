@@ -1,0 +1,41 @@
+policy_id: Unique identifier for each insurance policy.
+subscription_length: The duration of the insurance policy in years.
+vehicle_age: The age of the vehicle in years at the time of policy purchase.
+customer_age: The age of the vehicle owner or policyholder.
+region_code: Coded identifier for the geographic region of the policyholder.
+region_density: The population density of the policyholder's region.
+segment: Classification of the vehicle based on size and utility (e.g., SUV, compact).
+model: The specific model of the vehicle.
+fuel_type: The type of fuel the vehicle uses (e.g., petrol, diesel, electric).
+max_torque: The maximum torque output of the vehicle's engine, often in Nm (Newton-meters).
+max_power: The maximum power output of the vehicle's engine, often in horsepower or kilowatts.
+engine_type: The type of engine installed in the vehicle (e.g., V6, inline-4).
+airbags: The number of airbags installed in the vehicle.
+is_esc: Indicates whether the vehicle is equipped with electronic stability control.
+is_adjustable_steering: Indicates whether the vehicle has adjustable steering capabilities.
+is_tpms: Indicates the presence of a tire pressure monitoring system in the vehicle.
+is_parking_sensors: Indicates whether the vehicle is equipped with parking sensors.
+is_parking_camera: Indicates whether the vehicle has a parking camera system.
+rear_brakes_type: The type of braking system used in the rear brakes (e.g., disc, drum).
+displacement: The volume of the engine's cylinders, usually in cubic centimeters.
+cylinder: The number of cylinders in the vehicle’s engine.
+transmission_type: The type of transmission in the vehicle (e.g., manual, automatic).
+steering_type: The type of steering system (e.g., power, rack-and-pinion).
+turning_radius: The minimum circular turn the vehicle can make, usually in meters.
+length: The total length of the vehicle in millimeters.
+width: The width of the vehicle in millimeters.
+gross_weight: The total weight of the vehicle when fully loaded, in kilograms.
+is_front_fog_lights: Indicates whether the vehicle is equipped with front fog lights.
+is_rear_window_wiper: Indicates the presence of a rear window wiper.
+is_rear_defogger: Whether the vehicle has a rear window defogger system.
+is_ac: Indicates whether the vehicle is equipped with air conditioning.
+is_anti_lock_brake: Indicates the presence of an anti-lock braking system in the vehicle.
+ncap_rating: The vehicle's safety rating from the National Car Assessment Programme.
+claim_status: Indicates whether a claim was filed under the insurance policy (1 for filed, 0 for not filed).
+claim_amount: The amount claimed under the policy, if any.
+deductible_amount: The deductible amount that the policyholder is responsible for before insurance pays.
+monthly_premium: The amount the policyholder pays monthly for the insurance coverage.
+policy_start_date: The start date of the insurance policy.
+policy_end_date: The end date of the insurance policy.
+is_heated_seats: Indicates whether the vehicle is equipped with heated seats.
+is_keyless_entry: Indicates if the vehicle features keyless entry.
