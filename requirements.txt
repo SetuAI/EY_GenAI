@@ -1,1 +1,5 @@
-pandasai
+yfinance
+ollama
+pandas
+numpy 
+langchain
